@@ -15,7 +15,7 @@ export default (props: style.stylesFace) => {
     },
 
     topTxt: {
-      fontSize: 20,
+      fontSize: 16,
       // fontFamily: props.font.regular,
       alignSelf: 'center',
       textAlign: 'center',
@@ -31,7 +31,7 @@ export default (props: style.stylesFace) => {
       alignSelf: 'center',
     },
     tapTxt: {
-      fontSize: 18,
+      fontSize: 14,
       fontWeight: 'normal',
       color: props.color.secondary,
     },
@@ -69,7 +69,7 @@ export default (props: style.stylesFace) => {
       marginTop: 20,
     },
     uploadBtn: {
-      fontSize: 16,
+      fontSize: 14,
       marginLeft: 10,
       color: props.color.primary,
     },
